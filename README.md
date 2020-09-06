@@ -1,15 +1,21 @@
-## Life is painful, and hope is lost :innocent: 
+## Life is painful, and hope is lost😄
 
-### language🌱
+### language⚡
 
 - [x] 1. java
 - [ ] 2. go
-- [x] 3. net
-- [x] 4. php
+- [x] 3. php
+- [x] 4. net
 
-### company🔭
+### [technique](https://github.com/Alice52/Alice52/blob/master/technique/README.md)🌱
 
-1. [augmentum](https://github.com/Alice52/Alice52/#company)
+1. backend
+
+### project :cat:
+
+### [company](https://github.com/Alice52/Alice52/blob/master/company/README.md)🔭
+
+1. augmentum
 
 ---
 
