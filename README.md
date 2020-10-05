@@ -1,4 +1,4 @@
-## Life is painful, and hope is lost😄
+## Life is painful, and hope fails😄
 
 ### language⚡
 
