@@ -22,7 +22,15 @@
 
 3. experience
 
-4. [perceptions](./)
+4. projects
+
+    - taxtool
+    - casino
+    - jingmai
+    - ~~wework~~
+    - lucy draw
+
+5. [perceptions](./)
 
    - first job
    - really grateful for this company: `augmentum`
