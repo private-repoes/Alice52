@@ -26,6 +26,9 @@
 3. Life is painful, and hope is lost.
 4. **多读书, 多修身, 多养性**
 
+![Alice52's github stats](https://github-readme-stats.vercel.app/api?username=Alice52&show_icons=true&theme=dark)
+
+
 <!--
 **Alice52/Alice52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
