@@ -24,11 +24,11 @@
 
 4. projects
 
-    - taxtool
-    - casino
-    - jingmai
-    - ~~wework~~
-    - lucy draw
+   - ~~taxtool~~
+   - casino
+   - jingmai
+   - ~~wework~~
+   - ~~lucy draw~~
 
 5. [perceptions](./)
 
