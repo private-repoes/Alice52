@@ -4,8 +4,6 @@
 
 - [x] 1. java
 - [ ] 2. go
-- [x] 3. php
-- [x] 4. net
 
 ### [technique](https://github.com/Alice52/Alice52/blob/master/technique/README.md)🌱
 
