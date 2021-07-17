@@ -2,7 +2,7 @@
 name: todo list
 about: this is list what should be done in next period.
 title: "[list] todo list [20201210]"
-labels: todo, p2, list
+labels: list, p2, todo
 assignees: Alice52
 
 ---
