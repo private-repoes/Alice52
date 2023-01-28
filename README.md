@@ -4,6 +4,8 @@
 
 - [x] 1. java
 - [ ] 2. go
+- [ ] 3. kotlin
+- [ ] 4. ruby
 
 ### [technique](https://github.com/Alice52/Alice52/blob/master/technique/README.md)🌱
 
@@ -25,7 +27,6 @@
 4. **多读书, 多修身, 多养性**
 
 ![Alice52's github stats](https://github-readme-stats.vercel.app/api?username=Alice52&show_icons=true&theme=dark)
-
 
 <!--
 **Alice52/Alice52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
