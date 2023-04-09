@@ -3,9 +3,9 @@
 ### language⚡
 
 - [x] 1. java
-- [ ] 2. go
+- [x] 2. go
 - [ ] 3. kotlin
-- [ ] 4. ruby
+- [ ] 4. rust
 
 ### [technique](https://github.com/Alice52/Alice52/blob/master/technique/README.md)🌱
 
