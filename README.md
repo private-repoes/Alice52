@@ -3,8 +3,8 @@
 ### language⚡
 
 - [x] 1. java
-- [x] 2. go
-- [ ] 3. kotlin
+- [x] 2. kotlin
+- [ ] 3. go
 - [ ] 4. rust
 
 ### [technique](https://github.com/Alice52/Alice52/blob/master/technique/README.md)🌱
@@ -12,6 +12,9 @@
 1. backend
 
 ### project :cat:
+
+1. augmentum
+2. personal
 
 ### [company](https://github.com/Alice52/Alice52/blob/master/company/README.md)🔭
 
@@ -26,9 +29,14 @@
 3. Life is painful, and hope is lost.
 4. **多读书, 多修身, 多养性**
 
-![Alice52's github stats](https://github-readme-stats.vercel.app/api?username=Alice52&show_icons=true&theme=dark)
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alice52&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alice52&layout=compact&theme=buefy&hide_border=true&langs_count=6&hide=html,css" alt="" /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
+![Alice52's github stats](https://github-readme-stats.vercel.app/api?username=Alice52&show_icons=true&theme=dark)
+
 **Alice52/Alice52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
